@@ -1,2 +1,2 @@
 # Demo
-This repo is mode for practice purpose only
+This repo is made for practice purpose only
